@@ -1,0 +1,82 @@
+{
+    "uid": {
+        "count": 1,
+        "0": "bglick"
+    },
+    "0": "uid",
+    "objectclass": {
+        "count": 8,
+        "0": "inetOrgPerson",
+        "1": "posixAccount",
+        "2": "shadowAccount",
+        "3": "apple-user",
+        "4": "extensibleObject",
+        "5": "organizationalPerson",
+        "6": "top",
+        "7": "person"
+    },
+    "1": "objectclass",
+    "givenname": {
+        "count": 1,
+        "0": "Benjamin"
+    },
+    "2": "givenname",
+    "uidnumber": {
+        "count": 1,
+        "0": "14346"
+    },
+    "3": "uidnumber",
+    "homedirectory": {
+        "count": 1,
+        "0": "\/Network\/Servers\/files.ucls.uchicago.edu\/Volumes\/SAN\/Data\/Users\/Student\/2016\/bglick"
+    },
+    "4": "homedirectory",
+    "sn": {
+        "count": 1,
+        "0": "Glick"
+    },
+    "5": "sn",
+    "gidnumber": {
+        "count": 1,
+        "0": "2016"
+    },
+    "6": "gidnumber",
+    "loginshell": {
+        "count": 1,
+        "0": "\/usr\/local\/bin\/rssh"
+    },
+    "7": "loginshell",
+    "cn": {
+        "count": 1,
+        "0": "Benjamin Glick"
+    },
+    "8": "cn",
+    "apple-generateduid": {
+        "count": 1,
+        "0": "88629487-AB23-49C5-BA19-F29FDE1901A6"
+    },
+    "9": "apple-generateduid",
+    "authauthority": {
+        "count": 2,
+        "0": ";ApplePasswordServer;0x48c6e8a957dacffe0000101200001383,1024 35 155043762239093413171847364465611800235151972095396205226492019306549330045321395438376109288688460254366640303655282224567676303020948903592458655265039577517615580637694583430629987036505220916470843238468009321388542488532092311993217873080904218824477303339115095909374090364791158065452753221715409248517 root@ldap.ucls.uchicago.edu:128.135.159.135",
+        "1": ";Kerberosv5;0x48c6e8a957dacffe0000101200001383"
+    },
+    "10": "authauthority",
+    "userpassword": {
+        "count": 1,
+        "0": "********"
+    },
+    "11": "userpassword",
+    "altsecurityidentities": {
+        "count": 1,
+        "0": "Kerberos:bglick@SANTOS.UCLS.UCHICAGO.EDU"
+    },
+    "12": "altsecurityidentities",
+    "apple-user-mailattribute": {
+        "count": 1,
+        "0": "<dict>\n\t<key>kAPOPRequired<\/key>\n\t<string>APOPNotRequired<\/string>\n\t<key>kAltMailStoreLoc<\/key>\n\t<string><\/string>\n\t<key>kAttributeVersion<\/key>\n\t<string>Apple Mail 1.0<\/string>\n\t<key>kAutoForwardValue<\/key>\n\t<string><\/string>\n\t<key>kIMAPLoginState<\/key>\n\t<string>IMAPAllowed<\/string>\n\t<key>kMailAccountLocation<\/key>\n\t<string>mail.ucls.uchicago.edu<\/string>\n\t<key>kMailAccountState<\/key>\n\t<string>Enabled<\/string>\n\t<key>kPOP3LoginState<\/key>\n\t<string>POP3Deny<\/string>\n\t<key>kUserDiskQuota<\/key>\n\t<string>500<\/string>\n<\/dict>\n"
+    },
+    "13": "apple-user-mailattribute",
+    "count": 14,
+    "dn": "uid=bglick,cn=users,dc=ldap,dc=ucls,dc=uchicago,dc=edu"
+}

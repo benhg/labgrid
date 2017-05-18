@@ -1,0 +1,5 @@
+Establishing connection to labgrid database...
+Array
+(
+    [DATABASE()] => labgrid
+)

@@ -1,0 +1,71 @@
+Array
+(
+    [DATABASE()] => labgrid
+)
+
+<---Begin submit_job.php outputArray
+(
+    [jobname] => empty_job
+    [exe] => sleep.sh
+    [size-input] => 1
+    [desc] => lol kay
+    [MAX_FILE_SIZE] => 1000000
+    [g-recaptcha-response] => 
+    [submit-button] => Submit
+)
+Array
+(
+    [uploaded_file] => Array
+        (
+            [name] => Archive.zip
+            [type] => application/zip
+            [tmp_name] => /uploads/phpAcU1JL
+            [error] => 0
+            [size] => 704
+        )
+
+)
+Check login returned: 1
+Array
+(
+    [given-name] => {
+    [surname] => {
+    [user_id] => 
+    [username] => bglick
+    [login_session_id] => 27236e32c56612b8fc284681f33863b92c02273e6b2efcb3f86efa719fab92a30aa5004480ac8072643ed8123da2c01fc254db2dc63dea7db573be28c08e6bc7
+)
+MySQL jobs params: bglickempty_joblol kay1
+Session checked
+Session updated
+
+
+
+Store job to db returned: 1
+Job query returned: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 1
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+Got Job ID: 126
+Target File: /uploads/phpAcU1JL
+File Type: zip
+Upload status: 1
+>>>>>>>>>>>>>----------------FILE UPLOAD EXECUTES-----------------<<<<<<<<<<<<
+Upload status: 1
+11Array
+(
+    [uploaded_file] => Array
+        (
+            [name] => Archive.zip
+            [type] => application/zip
+            [tmp_name] => /uploads/phpAcU1JL
+            [error] => 0
+            [size] => 704
+        )
+
+)
+----->DID NOT FAIL BEFORE PY SCRIPT<-----
